@@ -1,0 +1,42 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4",
+      "name": "asdasdasdas",
+      "email": "dasdasd@gmail.com",
+      "birth": 698198400000,
+      "gender": "M",
+      "blood": "A0",
+      "weight": "99",
+      "height": "188"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4",
+      "name": "asdasdasdas",
+      "birth": 634694400000,
+      "gender": "F",
+      "services": "HTML, CSS, Javascript, React",
+      "created_at": 1612032834860
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4",
+      "name": "asdasdasdas",
+      "birth": 318556800000,
+      "gender": "M",
+      "created_at": 1612285045224
+    },
+    {
+      "id": 3,
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6643122?s=400&u=1e9e1f04b76fb5374e6a041f5e41dce83f3b5d92&v=4",
+      "name": "w2www",
+      "birth": 318556800000,
+      "gender": "M",
+      "created_at": 1612285482735
+    }
+  ]
+}
